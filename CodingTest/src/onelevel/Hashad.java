@@ -1,3 +1,4 @@
+package onelevel;
 
 public class Hashad {
 	int x = 0;

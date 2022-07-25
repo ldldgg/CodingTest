@@ -1,3 +1,4 @@
+package onelevel;
 
 public class MaxMin {
 

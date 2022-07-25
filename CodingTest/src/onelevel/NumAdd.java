@@ -1,3 +1,4 @@
+package onelevel;
 
 public class NumAdd {
 	public int solution(int n) {
