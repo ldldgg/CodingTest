@@ -1,4 +1,4 @@
-package onelevel;
+package onelevel.practice;
 
 
 import java.util.Scanner;

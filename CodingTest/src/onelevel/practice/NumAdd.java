@@ -1,4 +1,4 @@
-package onelevel;
+package onelevel.practice;
 
 public class NumAdd {
 	public int solution(int n) {

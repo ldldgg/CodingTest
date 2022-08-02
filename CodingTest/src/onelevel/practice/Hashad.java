@@ -1,4 +1,4 @@
-package onelevel;
+package onelevel.practice;
 
 public class Hashad {
 	int x = 0;

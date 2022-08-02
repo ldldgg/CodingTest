@@ -1,4 +1,4 @@
-package onelevel;
+package onelevel.practice;
 
 public class Misterry {
 	public String solution(String s) {

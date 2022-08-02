@@ -1,4 +1,4 @@
-package onelevel;
+package onelevel.normal;
 
 public class EqualNumHate {
 
